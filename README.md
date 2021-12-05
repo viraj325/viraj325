@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @viraj325
-- 👀 I’m interested in Web/Mobile Development(iOS and Android)
-
-<!---
-viraj325/viraj325 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <h1 align="center">Hi , I'm Viraj Patel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quando&color=5f1aa3&size=24&center=true&vCenter=true&lines=Mobile+Developer;Web+Developer;Mixed+Reality+Enthusiast"></a>
