@@ -37,20 +37,6 @@
 <br/>
 
 ## 🛠️ My Skills
-
-<details> 
-  <summary><b>Frontend Development</b></summary>
-  <br/>
-  <p align="left">
-      <img alt="C" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-      <img alt="C" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      <img alt="C" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-      <img alt="C" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-      <img alt="C" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    
-  </p>
-</details>
-<br/>
 <details> 
   <summary><b>Programming languages</b></summary>
   <br/>
@@ -65,6 +51,7 @@
 	  <img alt="C" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
 	  <img alt="C" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 	  <img alt="C" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+	  <img alt="C" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
   </p>
 </details>
 <br/>
