@@ -39,7 +39,7 @@
 ## 🛠️ My Skills
 
 <details> 
-  <summary><b>👉 Frontend Development</b></summary>
+  <summary><b>Frontend Development</b></summary>
   <br/>
   <p align="left">
       <img alt="C" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -52,7 +52,7 @@
 </details>
 <br/>
 <details> 
-  <summary><b>👉 Programming languages</b></summary>
+  <summary><b>Programming languages</b></summary>
   <br/>
   <p align="left">
 	  <img alt="C" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
@@ -69,7 +69,7 @@
 </details>
 <br/>
 <details> 
-  <summary><b>👉 Frameworks and Libraries</b></summary>
+  <summary><b>Frameworks and Libraries</b></summary>
   <br/>
   <p align="left"> 
       <img alt="C" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -85,7 +85,7 @@
 </details>
 <br/>
 <details> 
-  <summary><b>👉 Databases & Cloud Hosting</b></summary>
+  <summary><b>Databases & Cloud Hosting</b></summary>
   <br/>
   <p align="left"> 
       <img alt="C" src="https://img.shields.io/badge/MySQL-FF5E11?style=for-the-badge&logo=mysql&logoColor=white">
@@ -96,7 +96,7 @@
 </details>
 <br/>
 <details> 
-  <summary><b>👉 Tools</b></summary>
+  <summary><b>Tools</b></summary>
   <br/>
   <p align="left"> 
       <img alt="C" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -116,15 +116,4 @@
 </p>
 <hr/>
 <p align="center"><b>Though you have came this far, Checkout my Repos</b></p>
-
-<!--![earth](https://user-images.githubusercontent.com/37918393/144724174-8de09eea-a75b-44ba-9c3e-423f525606dc.jpg)-->
-<!--<br/>![electronics](https://user-images.githubusercontent.com/37918393/144725069-8f3c4b7f-ea82-4906-8a8c-dd10b6ed988b.jpg)-->
-<!--![b9c8f893c9a782033a01f47e0c0b1d6e](https://user-images.githubusercontent.com/37918393/144725074-e53dbc71-ddec-4b30-bae0-4ac82f64cba7.jpg)-->
-<!--![nodesgif](https://user-images.githubusercontent.com/37918393/144725080-584ff239-a741-415c-b627-edef053985d0.gif)-->
 <br>
-
-<!--![image](https://user-images.githubusercontent.com/37918393/144725872-e6bb0353-e6c5-42a7-b47b-0d57ca06b37c.png)-->
-<!--![image (1)](https://user-images.githubusercontent.com/37918393/144725898-84f433d7-cd56-4565-9bd5-f77b24ffddf7.png)-->
-<!--![1_YMO9lbZTAkvLVuASXFbRIA](https://user-images.githubusercontent.com/37918393/144725660-7fd68103-577d-4e97-b4f0-56b9edf3606c.png)-->
-
- 
