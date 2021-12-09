@@ -16,7 +16,7 @@
     <p align="left">
         <p>🏫 &nbsp;Studying BS Information Science from The Ohio State University.</p>
         <p>🎮 &nbsp;Like to play video games especially those in simulation/rpg genre.</p>
-        <p>✨ &nbsp;Creating/contributing to apps that help make the world a better place.</p>
+        <p>✨ &nbsp;Creating/contributing to apps that help make a difference in making the world a better place.</p>
         <p>💻 &nbsp;Love to program apps and try different technologies.</p>
     </p>
   </p>
@@ -54,30 +54,33 @@
 <details> 
   <summary><b>👉 Programming languages</b></summary>
   <br/>
-  <p align="left"> 
-      <img alt="C" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
-      <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-      <img alt="C" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <p align="left">
+	  <img alt="C" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
+	  <img alt="C" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
+	  <img alt="C" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+	  <img alt="C" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+	  <img alt="C" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+	  <img alt="C" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+	  <img alt="C" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+	  <img alt="C" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+	  <img alt="C" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+	  <img alt="C" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   </p>
 </details>
 <br/>
 <details> 
-  <summary><b>👉 Frameworks</b></summary>
+  <summary><b>👉 Frameworks and Libraries</b></summary>
   <br/>
   <p align="left"> 
       <img alt="C" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
       <img alt="C" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-      <img alt="C" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
-      <img alt="C" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-      <img alt="C" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
       <img alt="C" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
       <img alt="C" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
       <img alt="C" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-      <img alt="C" src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
-      <img alt="C" src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white">
       <img alt="C" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
       <img alt="C" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-	  
+	 <img src="https://user-images.githubusercontent.com/37918393/144725898-84f433d7-cd56-4565-9bd5-f77b24ffddf7.png" width="125" height="55">
+	<img src="https://user-images.githubusercontent.com/37918393/144725660-7fd68103-577d-4e97-b4f0-56b9edf3606c.png" width="125" height="60">
   </p>
 </details>
 <br/>
@@ -87,7 +90,6 @@
   <p align="left"> 
       <img alt="C" src="https://img.shields.io/badge/MySQL-FF5E11?style=for-the-badge&logo=mysql&logoColor=white">
       <img alt="C" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-      <img alt="C" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
       <img alt="C" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
       <img alt="C" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   </p>
@@ -123,9 +125,6 @@
 
 <!--![image](https://user-images.githubusercontent.com/37918393/144725872-e6bb0353-e6c5-42a7-b47b-0d57ca06b37c.png)-->
 <!--![image (1)](https://user-images.githubusercontent.com/37918393/144725898-84f433d7-cd56-4565-9bd5-f77b24ffddf7.png)-->
-
-<img src="https://user-images.githubusercontent.com/37918393/144725898-84f433d7-cd56-4565-9bd5-f77b24ffddf7.png" width="125" height="55">
-<img src="https://user-images.githubusercontent.com/37918393/144725660-7fd68103-577d-4e97-b4f0-56b9edf3606c.png" width="125" height="60">
 <!--![1_YMO9lbZTAkvLVuASXFbRIA](https://user-images.githubusercontent.com/37918393/144725660-7fd68103-577d-4e97-b4f0-56b9edf3606c.png)-->
 
  
