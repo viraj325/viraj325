@@ -12,7 +12,6 @@
   <summary><b>🙋‍♂️ Intro</b></summary>
   <br/>
   <p>
-    <img align="right" src="programmer.svg" alt="programmer" width="25%">
     <p align="left">
         <p>🏫 &nbsp;Studying BS Information Science from The Ohio State University.</p>
         <p>🎮 &nbsp;Like to play video games especially those in simulation/rpg genre.</p>
