@@ -78,7 +78,10 @@
       <img alt="C" src="https://img.shields.io/badge/MySQL-FF5E11?style=for-the-badge&logo=mysql&logoColor=white">
       <img alt="C" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
       <img alt="C" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+	  <img alt="C" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
       <img alt="C" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+	  <img alt="C" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
+	  <img alt="C" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white">
   </p>
 </details>
 <br/>
@@ -90,6 +93,7 @@
       <img alt="C" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
       <img alt="C" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
       <img alt="C" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+	  
   </p>
 </details>
 <br/>
