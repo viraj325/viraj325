@@ -26,10 +26,11 @@
   <br/>
   <p>
     <p align="left">
-        <p>Developer</p>
-        <p>Beta</p>
-        <p>Web</p>
-        <p>Technical</p>
+        <p>Water(NodeJS Package): Generate random fake user-related data.</p>
+        <p>ACLPKotlin(Android): Generate programming files via user's speech.</p>
+        <p>ContactSpring(Spring): CRUD Contact directory application.</p>
+        <p>Cople(Android, WearOS, iOS, WatchOS, Carplay, Android Auto, Web PWA, tvOS, Hololens, Meta Quest): Social media application.</p>
+	<p><b>*Cople-related repositories are private.</b></p>
     </p>
   </p>
 </details>
