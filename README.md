@@ -13,7 +13,7 @@
   <br/>
   <p>
     <p align="left">
-        <p>🏫 &nbsp;Studying BS Information Science from The Ohio State University.</p>
+        <p>🏫 &nbsp;Graduated with BS Geographic Information Science from The Ohio State University.</p>
         <p>🎮 &nbsp;Like to play video games especially those in simulation/rpg genre.</p>
         <p>✨ &nbsp;Creating/contributing to apps that help make a difference the world.</p>
         <p>💻 &nbsp;Love to program apps and try different technologies.</p>
