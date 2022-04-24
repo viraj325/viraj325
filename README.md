@@ -26,10 +26,10 @@
   <br/>
   <p>
     <p align="left">
-        <p>Water(NodeJS Package): Generate random fake user-related data.</p>
-        <p>ACLPKotlin(Android): Generate programming files via user's speech.</p>
-        <p>ContactSpring(Spring): CRUD Contact directory application.</p>
-        <p>Cople(Android, WearOS, iOS, WatchOS, Carplay, Android Auto, Web PWA, tvOS, Hololens, Meta Quest): Social media application.</p>
+        <li>Water(NodeJS Package): Generate random fake user-related data.</li>
+        <li>ACLPKotlin(Android): Generate programming files via user's speech.</li>
+        <li>ContactSpring(Spring): CRUD Contact directory application.</li>
+        <li>Cople(Android, WearOS, iOS, WatchOS, Carplay, Android Auto, Web PWA, tvOS, Hololens, Meta Quest): Social media application.</li>
 	<p><b>*Cople-related repositories are private.</b></p>
     </p>
   </p>
