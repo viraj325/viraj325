@@ -13,9 +13,9 @@
   <br/>
   <p>
     <p align="left">
-        <p>🏫 &nbsp;Graduated with BS Geographic Information Science from The Ohio State University.</p>
-        <p>🎮 &nbsp;Like to play video games especially those in simulation/rpg genre.</p>
-        <p>✨ &nbsp;Creating/contributing to apps that help make a difference the world.</p>
+        <p>🏫 &nbsp;Graduated with BS Geographic Information System from The Ohio State University.</p>
+        <p>🎮 &nbsp;Likes to play video games especially those in simulation/rpg genre.</p>
+        <p>✨ &nbsp;Create/contribute to software that helps make a difference to the world.</p>
         <p>💻 &nbsp;Love to program apps and try different technologies.</p>
     </p>
   </p>
