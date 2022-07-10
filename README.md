@@ -22,7 +22,7 @@
 </details>
 <br/>
 <details> 
-  <summary><b>⌨️ Experience</b></summary>
+  <summary><b>⌨️ Personal Projects</b></summary>
   <br/>
   <p>
     <p align="left">
