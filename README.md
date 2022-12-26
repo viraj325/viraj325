@@ -23,7 +23,6 @@
 <br/>
 <details> 
   <summary><b>⌨️ Personal Projects</b></summary>
-  <br/>
   <p>
     <p align="left">
 	    <li>Seed(iOS): Social networking application that allows users to view and connect to new startups.</li>
