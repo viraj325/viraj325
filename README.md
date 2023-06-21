@@ -110,5 +110,5 @@
 <p align="center"><a href="https://cople.app/viraj_portfolio/">My Portfolio</a></p>
 <br>
 
-![](https://komarev.com/ghpvc/?username=viraj325&color=FFD700)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viraj325&hide=ruby,css,scss,html&theme=dark)
+![](https://komarev.com/ghpvc/?username=viraj325&color=FFD700)
