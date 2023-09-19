@@ -111,5 +111,5 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viraj325&hide=ruby,css,scss,html&theme=dark)
-[![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=viraj325)](https://github.com/viraj325/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=viraj325&color=FFD700)
+<!--[![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=viraj325)](https://github.com/viraj325/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=viraj325&color=FFD700)-->
