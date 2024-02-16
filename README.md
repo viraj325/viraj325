@@ -16,7 +16,7 @@
         <p>🏫 &nbsp;Graduated from The Ohio State University.</p>
         <p>🎮 &nbsp;Likes to play video games especially those in simulation/rpg genre.</p>
         <p>✨ &nbsp;Love to program, try different technologies, and create applications/softwares to help make a difference to the world.</p>
-        <p>💻 &nbsp;Currently work at JP Morgan Chase & Co. as a Associate Java Software Engineer.</p>
+        <p>💻 &nbsp;Currently works @JP Morgan Chase & Co. as a Associate Java Software Engineer.</p>
     </p>
   </p>
 </details>
